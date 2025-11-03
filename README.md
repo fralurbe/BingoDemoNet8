@@ -28,4 +28,7 @@ Creada para demostrar:
 ---
 
 ## Cómo ejecutar
-1. Descarga el ejecut
+1. Descarga el ejecutable:  
+   [BingoDemoNet8.exe (v1.0)](https://github.com/fralurbe/BingoDemoNet8/releases/download/v1.0/BingoDemoNet8.exe)  
+2. Doble clic → ¡Funciona en cualquier Windows 10/11!  
+   *(No necesita instalar .NET)*
