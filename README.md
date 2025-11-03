@@ -1,5 +1,5 @@
 # Bingo Demo .NET 8  
-**WPF App personal – Proyecto para CV y entrevistas**
+**WPF App personal Pruebas con Github y WPF**
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-blue)  
 ![WPF](https://img.shields.io/badge/WPF-Yes-green)  
